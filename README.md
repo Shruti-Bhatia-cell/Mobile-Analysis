@@ -51,5 +51,8 @@ By leveraging the power of SQL and Power BI, this project empowers users to make
 ## **Power BI Representation**
 ![Power Bi image](https://github.com/Shruti-Bhatia-cell/Mobile-Analysis/blob/main/result%20visualisation.png)
 
+## **MySQL Workbench**
+![Workbench](https://github.com/Shruti-Bhatia-cell/Mobile-Analysis/blob/main/SQL.png)
+
 ## **Conclusion**
-The Mobile Analysis Project offers a comprehensive analysis and comparison of mobile phones based on various features. By combining SQL and Power BI, users can make informed decisions when buying a new phone, considering factors such as brand, price, camera
+The project offers a comprehensive analysis and comparison of mobile phones based on various features. By combining SQL and Power BI, users can make informed decisions when buying a new phone, considering factors such as brand, price, camera etc.
