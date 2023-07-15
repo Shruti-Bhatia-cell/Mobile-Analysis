@@ -34,17 +34,17 @@ This project provides users with the ability to compare different mobile phones 
 
 The following steps outline how the project can help individuals in their decision-making process:
 
-**Filtering**: Users can filter the mobile phones based on specific criteria such as brand, operating system, camera quality, 5G availability, and more. This allows them to narrow down their options to phones that meet their requirements.
+_**Filtering**_: Users can filter the mobile phones based on specific criteria such as brand, operating system, camera quality, 5G availability, and more. This allows them to narrow down their options to phones that meet their requirements.
 
-**Sorting**: Users can sort the phones based on different attributes such as price, internal storage, camera quality, and battery capacity. This helps users identify phones that offer the best value for their desired features.
+_**Sorting**_: Users can sort the phones based on different attributes such as price, internal storage, camera quality, and battery capacity. This helps users identify phones that offer the best value for their desired features.
 
-**Visualizations**: The project provides interactive visualizations using Power BI, allowing users to gain insights and compare different phones visually. They can explore charts and graphs representing features like camera quality versus price, RAM versus battery capacity, or any other combination of attributes.
+_**Visualizations**_: The project provides interactive visualizations using Power BI, allowing users to gain insights and compare different phones visually. They can explore charts and graphs representing features like camera quality versus price, RAM versus battery capacity, or any other combination of attributes.
 
-**Price Range Analysis**: Users can set a specific budget and analyze phones within that price range. They can see the phones that fall within their budget and compare their features to make an informed decision.
+_**Price Range Analysis**_: Users can set a specific budget and analyze phones within that price range. They can see the phones that fall within their budget and compare their features to make an informed decision.
 
-**Country of Origin**: Some users may have preferences for phones manufactured in specific countries. The project allows users to filter and compare phones based on their country of origin, giving them the ability to support local manufacturing or choose phones from certain regions.
+_**Country of Origin**_: Some users may have preferences for phones manufactured in specific countries. The project allows users to filter and compare phones based on their country of origin, giving them the ability to support local manufacturing or choose phones from certain regions.
 
-**Future-proofing**: With the inclusion of 5G availability, users can assess whether a phone supports the latest generation of cellular technology. This helps individuals who desire faster internet speeds and want to ensure their phone is compatible with future network advancements.
+_**Future-proofing**_: With the inclusion of 5G availability, users can assess whether a phone supports the latest generation of cellular technology. This helps individuals who desire faster internet speeds and want to ensure their phone is compatible with future network advancements.
 
 By leveraging the power of SQL and Power BI, this project empowers users to make objective comparisons and select the mobile phone that best fits their preferences, budget, and desired features.
 
